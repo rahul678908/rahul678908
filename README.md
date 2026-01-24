@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Rahul 👋
+I'm a web developer working with Django, Laravel, and React.  
+Here are some of my projects:
 
-<!--
-**rahul678908/rahul678908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
+- Employee Management System (Django)
+- Emo-Music Chatbot
+- Scube Interiors Website
+- Rock-Paper-Scissors with Tkinter
 
-Here are some ideas to get you started:
+## 🛠 Skills
+HTML, CSS, JavaScript, Python, Django, React, PHP, Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+Email: yourname@gmail.com  
